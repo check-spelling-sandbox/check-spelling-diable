@@ -3,7 +3,7 @@
 benefitting
 occurences?
 ^dependan.*
-^diable$
+^diables?$
 ^oer$
 Sorce
 ^[Ss]pae.*
